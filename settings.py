@@ -1,0 +1,12 @@
+INGREDIENTS = ["Declustered Water", "Aqua", "Eau De-Structuree (-)", "Declustered Water (+)", "Limnanthes Alba (Meadowfoam) Seed Oil", 
+               "Caprylic/Capric Triglyceride" , "Cetyl Alcohol" , "Stearyl Alcohol" , "Dimethicone" , "Glycerin" , "Pentylene Glycol" , 
+               "Glyceryl Stearate" , "Coco-Caprylate/Caprate" , "Tourmaline" , "Triticum Vulgare (Wheat) Germ Extract" , "Vitis Vinifera (Grape) Fruit Extract" , 
+               "Hordeum Vulgare (Barley) Extract\Extrait D'Orge" , "Saccharomyces/Copper Ferment" , "Caprylyl Glycol" , "Scutellaria Baicalensis Root Extract" , 
+               "Pantethine" , "Cholesterol" , "Ginkgo Biloba Leaf Extract" , "Algae (Seaweed) Extract" , "Sesamum Indicum (Sesame) Seed Oil" , 
+               "Medicago Sativa (Alfalfa) Seed Powder" , "Helianthus Annuus (Sunflower) Seedcake" , "Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal" , 
+               "Eucalyptus Globulus (Eucalyptus) Leaf Oil" , "Sodium Gluconate" , "Copper Gluconate" , "Calcium Gluconate" , "Magnesium Gluconate" , 
+               "Zinc Gluconate" , "Tocopheryl Succinate" , "Niacin" , "Sesamum Indicum (Sesame) Seed Powder" , "Glyceryl Triacetyl Ricinoleate" , 
+               "Macadamia Integrifolia Seed Oil" , "Hexylene Glycol" , "Triethylhexanoin" , "Bisabolol" , "Linoleic Acid" , "Sodium Hyaluronate" , "Caffeine" , 
+               "Morus Nigra (Mulberry) Root Extract" , "Tocopheryl Acetate" , "Squalane" , "Methyl Glucose Sesquistearate" , "Tocopheryl Nicotinate" , 
+               "Crithmum Maritimum Extract" , "Butylene Glycol" , "Magnesium Sulfate" , "Peg-100 Stearate" , "Xanthan Gum" , "Fragrance (Parfum)" , "Limonene" , 
+               "Linalool" , "Amyl Cinnamal" , "Hexyl Cinnamal" , "Benzyl Benzoate" , "Coumarin" , "Citronellol" , "Disodium Edta" , "Phenoxyethanol"]
